@@ -13,56 +13,43 @@ public class Main {
 
         switch (sonuc){
             case 0:
-                 if (sonuc == 0){
                      System.out.println("Çin Zodyağı Burcunuz : Maymun");
-                 }else{
-                     System.out.println(sonuc);
-                 }
                  break;
             case 1:
-                if (sonuc == 1){
                     System.out.println("Çin Zodyağı Burcunuz : Horoz");
-                }break;
+                break;
             case 2 :
-                if (sonuc == 2){
+
                     System.out.println("Çin Zodyağı Burcunuz : Köpek");
-                }break;
+                break;
             case 3:
-                if (sonuc == 3){
+
                     System.out.println("Çin Zodyağı Burcunuz : Domuz");
-                }break;
+                break;
             case 4:
-                if (sonuc == 4){
                     System.out.println("Çin Zodyağı Burcunuz : Fare");
-                }break;
+                break;
             case 5:
-                if (sonuc == 5){
                     System.out.println("Çin Zodyağı Burcunuz : Öküz");
-                }break;
+                break;
             case 6:
-                if (sonuc == 6){
                     System.out.println("Çin Zodyağı Burcunuz : Kaplan");
-                }break;
+                break;
             case 7:
-                if (sonuc == 7){
                     System.out.println("Çin Zodyağı Burcunuz : Tavşan");
-                }break;
+                break;
             case 8:
-                if (sonuc == 8){
                     System.out.println("Çin Zodyağı Burcunuz : Ejderha");
-                }break;
+                break;
             case 9:
-                if (sonuc == 9){
                     System.out.println("Çin Zodyağı Burcunuz : Yılan");
-                }break;
+                break;
             case 10:
-                if (sonuc == 10){
                     System.out.println("Çin Zodyağı Burcunuz : At");
-                }break;
+                break;
             case 11:
-                if (sonuc == 11){
                     System.out.println("Çin Zodyağı Burcunuz : Koyun");
-                }break;
+                break;
             default:
                 System.out.println("Hatalı Tarih Girdiniz");
         }
